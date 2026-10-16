@@ -1,0 +1,16 @@
+Create virtual environment
+     python3 -m venv venv
+
+activate virtual environment
+     source venv/bin/activate
+
+create requirements.txt and add the requirements you need
+
+install dependencies
+     pip install -r requirements.txt
+
+run the program
+     python3 main.py
+
+deactivate virtual environment
+     deactivate
